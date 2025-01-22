@@ -4,9 +4,9 @@
 #include <map>
 #include <stack>
 #include "antlr4-runtime.h"
-#include "C:/Users/nasgor/source/repos/ОРК/ОРК/antlr/UpdateGrammarLexer.h"
-#include "C:/Users/nasgor/source/repos/ОРК/ОРК/antlr/UpdateGrammarParser.h"
-#include "C:/Users/nasgor/source/repos/ОРК/ОРК/antlr/UpdateGrammarVisitor.h"
+#include "../antlr/UpdateGrammarLexer.h"
+#include "../antlr/UpdateGrammarParser.h"
+#include "../antlr/UpdateGrammarVisitor.h"
 
 using namespace antlr4;
 
